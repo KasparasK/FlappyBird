@@ -1,0 +1,17 @@
+C:\Users\kaspa\source\repos\FlappyBird\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kaspa\source\repos\FlappyBird\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kaspa\source\repos\FlappyBird\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kaspa\source\repos\FlappyBird\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\kaspa\source\repos\FlappyBird\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\kaspa\source\repos\FlappyBird\UnitTestProject\bin\Debug\FlappyBird.exe
+C:\Users\kaspa\source\repos\FlappyBird\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kaspa\source\repos\FlappyBird\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kaspa\source\repos\FlappyBird\UnitTestProject\bin\Debug\FlappyBird.pdb
+C:\Users\kaspa\source\repos\FlappyBird\UnitTestProject\bin\Debug\FlappyBird.exe.config
+C:\Users\kaspa\source\repos\FlappyBird\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kaspa\source\repos\FlappyBird\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kaspa\source\repos\FlappyBird\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\kaspa\source\repos\FlappyBird\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\kaspa\source\repos\FlappyBird\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\kaspa\source\repos\FlappyBird\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\kaspa\source\repos\FlappyBird\UnitTestProject\obj\Debug\UnitTestProject.pdb
